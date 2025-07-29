@@ -42,30 +42,8 @@ Movie-Recommender-System/
 
    * Input a movie title
    * Return 5 most similar movies based on cosine similarity scores
- ▶️ How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/moaaz12-web/Movie-Recommender-System
-cd Movie-Recommender-System
-```
-
-2. Open the Jupyter notebook:
-
-```bash
-jupyter notebook "Movie recommender system finalized.ipynb"
-```
-
-3. Run the cells step-by-step to:
-
-   * Preprocess data
-   * Generate vectors
-   * Try the `recommend('Movie Name')` function
-
----
-
-## 📤 Input
+ 
+ 📤 Input
 
 ```python
 recommend('Titanic')
